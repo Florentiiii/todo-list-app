@@ -9,5 +9,5 @@ Ky projekt është një aplikacion i thjeshtë në Python për menaxhimin e list
 2. Klono këtë repository:  
 git clone 
 python todo.py
-
+git clone https://github.com/Florentiiii/todo-list-app.git
 
